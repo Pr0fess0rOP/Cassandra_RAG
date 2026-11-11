@@ -1,0 +1,1 @@
+SELECT content_chunk FROM embeddings.document_vectors;
